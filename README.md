@@ -32,12 +32,18 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 
 | No. | Project | Technologies Used | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
-| 1 | Covid Data | SQL | Data exploration | I clean data in SQL Server Management Studio. |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 1 | [Covid Data Exploration](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration | I clean data in SQL Server Management Studio. |
+| 2 | [Covid Data Visualization]() | Tableau | Data visualization | I visualize data in Tableau. |
+| 3 | [Housing](url) | SQL | Data cleaning | I clean data in SQL Server Management Studio. |
+| 4 | [Movie Industry](url) | Python | Correlation | I ... |
+| 5 | [Amazon Product](url) | Python | Web Scrapping | I ... |
+| 6 | [AirBnb Listings](url) | Tableau | Data visualization  | I visualize data in Tableau. |
+| 7 | [Bike Buyers](url) | Excel | Data cleaning, Data visualization  | I clean data in Excel. |
+| 8 | [Data Professions](url) | PowerBI | Data visualization  | I visualize data in PowerBI. |
 
 ## 📫 Contact
 
-Feel free to reach out to me via phamhieu2001cg@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/trung-hieu-pham-3b18b81a5/).
+Feel free to contact me via phamhieu2001cg@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/trung-hieu-pham-3b18b81a5/).
 
 Thank you for visiting my portfolio!
 
