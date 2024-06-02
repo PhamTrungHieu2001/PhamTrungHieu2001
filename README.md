@@ -30,7 +30,7 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 
 ## Projects
 
-| No. | Project | Technologies Used | Steps & Keywords | Description |
+| No. | Project | Technologies used | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
 | 1 | [Covid Data Exploration](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration | I clean data in SQL Server Management Studio. |
 | 2 | [Covid Data Visualization]() | Tableau | Data visualization | I visualize data in Tableau. |
