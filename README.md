@@ -37,7 +37,7 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 
 ## 📫 Contact
 
-Feel free to reach out to me via [phamhieu2001cg@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/trung-hieu-pham-3b18b81a5/).
+Feel free to reach out to me via phamhieu2001cg@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/trung-hieu-pham-3b18b81a5/).
 
 Thank you for visiting my portfolio!
 
