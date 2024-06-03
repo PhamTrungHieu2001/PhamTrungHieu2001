@@ -32,14 +32,14 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 
 | No. | Project | Technologies used | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
-| 1 | [Covid Data Exploration](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration | I clean data in SQL Server Management Studio. |
-| 2 | [Covid Data Visualization]() | Tableau | Data visualization | I visualize data in Tableau. |
-| 3 | [Housing](url) | SQL | Data cleaning | I clean data in SQL Server Management Studio. |
-| 4 | [Movie Industry](url) | Python | Correlation | I ... |
-| 5 | [Amazon Product](url) | Python | Web Scrapping | I ... |
-| 6 | [AirBnb Listings](url) | Tableau | Data visualization  | I visualize data in Tableau. |
-| 7 | [Bike Buyers](url) | Excel | Data cleaning, Data visualization  | I clean data in Excel. |
-| 8 | [Data Professions](url) | PowerBI | Data visualization  | I visualize data in PowerBI. |
+| 1 | [Covid Cases](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration | I clean data in SQL Server Management Studio. |
+| 2 | [Covid Data Visualization](https://github.com/PhamTrungHieu2001/Covid-Deaths-and-Infection-Rate) | Tableau | Data visualization | I visualize data in Tableau. |
+| 3 | [Nashville Housing](https://github.com/PhamTrungHieu2001/Nashville-Housing) | SQL | Data cleaning | I clean data in SQL Server Management Studio. |
+| 4 | [Movie Industry](https://github.com/PhamTrungHieu2001/Movie-Industry) | Python | Correlation | I ... |
+| 5 | [Amazon Daily Price](https://github.com/PhamTrungHieu2001/Amazon-Daily-Price) | Python | Web Scrapping | I ... |
+| 6 | [AirBnb Listings](https://github.com/PhamTrungHieu2001/AirBnb-Listings) | Tableau | Data visualization  | I visualize data in Tableau. |
+| 7 | [Bike Buyers](https://github.com/PhamTrungHieu2001/Bike-Buyers) | Excel | Data cleaning, Data visualization  | I clean data in Excel. |
+| 8 | [Data Professions](https://github.com/PhamTrungHieu2001/Data-Professions) | PowerBI | Data visualization  | I visualize data in PowerBI. |
 
 ## 📫 Contact
 
