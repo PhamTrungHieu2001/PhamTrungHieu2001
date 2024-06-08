@@ -36,7 +36,7 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 | 2 | [Covid Visualization](https://github.com/PhamTrungHieu2001/Covid-Deaths-and-Infection-Rate) | Tableau | Data visualization | I visualize data in Tableau. |
 | 3 | [Nashville Housing](https://github.com/PhamTrungHieu2001/Nashville-Housing) | SQL | Data cleaning | I clean data in SQL Server Management Studio. |
 | 4 | [Movie Industry](https://github.com/PhamTrungHieu2001/Movie-Industry) | Python | Data Cleaning, Correlation | I ... |
-| 5 | [Amazon Daily Price](https://github.com/PhamTrungHieu2001/Amazon-Daily-Price) | Python | Web Scrapping | I ... |
+| 5 | [Amazon Price Tracking](https://github.com/PhamTrungHieu2001/Amazon-Daily-Price) | Python | Web Scrapping | I ... |
 | 6 | [AirBnb Listings](https://github.com/PhamTrungHieu2001/AirBnb-Listings) | Tableau | Data visualization  | I visualize data in Tableau. |
 | 7 | [Bike Buyers](https://github.com/PhamTrungHieu2001/Bike-Buyers) | Excel | Data cleaning, Data visualization  | I clean data in Excel. |
 | 8 | [Data Professions](https://github.com/PhamTrungHieu2001/Data-Professions) | PowerBI | Data visualization  | I visualize data in PowerBI. |
