@@ -33,7 +33,7 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 | No. | Project | Technologies used | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
 | 1 | [Covid Data Exploration](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration | I developed SQL queries to identify significant figures of the COVID-19 pandemic such as infection, vaccination, and mortality rates across various regions and periods.|
-| 2 | [Covid Data Visualization](https://github.com/PhamTrungHieu2001/Covid-Deaths-and-Infection-Rate) | Tableau | Data visualization | I developed interactive visualizations using Tableau to analyze COVID-19 data, created comprehensive dashboards, and highlighted key trends such as regional infection rates and global deaths. |
+| 2 | [Covid Data Visualization](https://github.com/PhamTrungHieu2001/Covid-Deaths-and-Infection-Rate) | Tableau | Data visualization | I built interactive visualizations using Tableau to analyze COVID-19 data, created comprehensive dashboards, and highlighted key trends such as regional infection rates and global deaths. |
 | 3 | [Nashville Housing](https://github.com/PhamTrungHieu2001/Nashville-Housing) | SQL | Data cleaning | I clean data in SQL Server Management Studio. |
 | 4 | [Movie Industry](https://github.com/PhamTrungHieu2001/Movie-Industry) | Python | Data cleaning, Correlation | I ... |
 | 5 | [Amazon Price Tracking](https://github.com/PhamTrungHieu2001/Amazon-Daily-Price) | Python | Web Scrapping | I ... |
