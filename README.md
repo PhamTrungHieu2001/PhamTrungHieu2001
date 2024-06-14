@@ -15,7 +15,7 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 
 ## Skills
 
-- **Data Analysis:** Descriptive statistics, hypothesis testing
+- **Data Analysis:** 
 - **Data Visualization:** Creating visualizations using Tableau, Power BI, and Matplotlib
 - **Programming Languages:** Python
 - **Data Wrangling:** Data cleaning, transformation, handling missing values
@@ -32,8 +32,8 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 
 | No. | Project | Technologies used | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
-| 1 | [Covid Exploration](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration | I clean data in SQL Server Management Studio. |
-| 2 | [Covid Visualization](https://github.com/PhamTrungHieu2001/Covid-Deaths-and-Infection-Rate) | Tableau | Data visualization | I visualize data in Tableau. |
+| 1 | [Covid Data Exploration](https://github.com/PhamTrungHieu2001/Covid) | SQL | Data exploration |  |
+| 2 | [Covid Data Visualization](https://github.com/PhamTrungHieu2001/Covid-Deaths-and-Infection-Rate) | Tableau | Data visualization | I visualize data in Tableau. |
 | 3 | [Nashville Housing](https://github.com/PhamTrungHieu2001/Nashville-Housing) | SQL | Data cleaning | I clean data in SQL Server Management Studio. |
 | 4 | [Movie Industry](https://github.com/PhamTrungHieu2001/Movie-Industry) | Python | Data Cleaning, Correlation | I ... |
 | 5 | [Amazon Price Tracking](https://github.com/PhamTrungHieu2001/Amazon-Daily-Price) | Python | Web Scrapping | I ... |
