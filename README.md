@@ -1,4 +1,4 @@
-![image](https://github.com/PhamTrungHieu2001/PhamTrungHieu2001/assets/73734497/15786792-1595-4cab-9344-04c00bb10522)## Hi there 👋
+## Hi there 👋
 
 Welcome to my GitHub page! This repository showcases my journey into data analytics, featuring projects and skills I've developed through self-study, online tutorials, and personal projects.
 
