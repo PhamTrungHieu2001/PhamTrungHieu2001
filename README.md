@@ -1,8 +1,8 @@
-## Hi there 👋
+![image](https://github.com/PhamTrungHieu2001/PhamTrungHieu2001/assets/73734497/15786792-1595-4cab-9344-04c00bb10522)## Hi there 👋
 
 Welcome to my GitHub page! This repository showcases my journey into data analytics, featuring projects and skills I've developed through self-study, online tutorials, and personal projects.
 
-## Table of Contents
+## 📑 Table of Contents
 - [About Me](#about-me)
 - [Tools and Technologies](#tools-and-technologies)
 - [Projects](#projects)
@@ -12,7 +12,7 @@ Welcome to my GitHub page! This repository showcases my journey into data analyt
 
 Hello! I'm Hieu, an aspiring data analyst passionate about turning data into actionable insights. Although I am at the beginning of my professional journey, I have dedicated significant time to learning and applying data analysis techniques through various projects.
 
-## Tools and Technologies
+## 💡 Tools and Technologies
 
 - **Data Analysis & Visualization**: Microsoft Excel, Power BI, Tableau
 - **Database Management**: SQL, MySQL, Microsoft SQL Server
@@ -21,7 +21,7 @@ Hello! I'm Hieu, an aspiring data analyst passionate about turning data into act
 - **Version Control & Collaboration**: GitHub
 - **Others**: Jupyter Notebooks, Microsoft Visual Studio
 
-## Projects
+## 📖 Projects
 
 | No. | Project | Technologies used | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
