@@ -8,7 +8,7 @@ Welcome to my GitHub page! This repository showcases my journey into data analyt
 - [Projects](#projects)
 - [Contact](#contact)
 
-## 👨‍💻 About Me
+## :raising_hand_man:	 About Me
 
 Hello! I'm Hieu, an aspiring data analyst passionate about turning data into actionable insights. Although I am at the beginning of my professional journey, I have dedicated significant time to learning and applying data analysis techniques through various projects.
 
