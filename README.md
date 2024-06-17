@@ -13,20 +13,14 @@ Welcome to my GitHub page! This repository showcases my journey into data analyt
 
 Hello! I'm Hieu, an aspiring data analyst passionate about turning data into actionable insights. Although I am at the beginning of my professional journey, I have dedicated significant time to learning and applying data analysis techniques through various projects.
 
-## Skills
-
-- **Data Analysis:** 
-- **Data Visualization:** Creating visualizations using Tableau, Power BI, and Matplotlib
-- **Programming Languages:** Python
-- **Data Wrangling:** Data cleaning, transformation, handling missing values
-- **Excel:** Advanced functions, pivot tables, data analysis tools
-
 ## Tools and Technologies
 
-- **Programming Languages:** Python, SQL
-- **Data Visualization Tools:** Tableau, Power BI, Matplotlib
-- **Databases:** MySQL, SQL Server
-- **Others:** Git, Excel, Jupyter Notebooks
+- **Data Analysis & Visualization**: Microsoft Excel, Power BI, Tableau
+- **Database Management**: SQL, MySQL, Microsoft SQL Server
+- **Programming Languages**: Python
+- **Data Manipulation & Cleaning**: Pandas (Python)
+- **Version Control & Collaboration**: GitHub
+- **Others**: Jupyter Notebooks, Microsoft Visual Studio
 
 ## Projects
 
