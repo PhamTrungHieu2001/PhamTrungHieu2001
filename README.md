@@ -4,7 +4,6 @@ Welcome to my GitHub page! This repository showcases my journey into data analyt
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Skills](#skills)
 - [Tools and Technologies](#tools-and-technologies)
 - [Projects](#projects)
 - [Contact](#contact)
