@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub page! This repository showcases my journey into data analytics, featuring projects and skills I've developed through self-study, online tutorials, and personal projects.
+Welcome to my GitHub page! This repository showcases my journey into data analysis, featuring projects and skills I've developed through self-study, online tutorials, and personal projects.
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
